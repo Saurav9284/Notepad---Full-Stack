@@ -1,6 +1,6 @@
 ## 📙 Notepad-Full-Stack
 
-
+A comprehensive individual full-stack project was successfully completed in seven days. This project enables users to create accounts, log in, and, upon successful login, allows them to create, edit, and delete their notes. Additionally, users have access to sorting, filtering, and searching functions to enhance their overall user experience ⚡.
 
 ## 🟢 Backend :-
 
