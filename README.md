@@ -13,7 +13,7 @@ A comprehensive individual full-stack project was successfully completed in seve
 
 🟡 GitHub Repo :- https://github.com/Saurav9284/Notepad-Frontend
 
-🟡 Frontend Deploy :- https://notes-saurav01.netlify.app/
+🟡 Frontend Deploy :- https://majestic-naiad-5e4a13.netlify.app/login
 
 ### Signup Page :-
 
